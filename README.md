@@ -33,6 +33,9 @@
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
         <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
     </a> 
+    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+    </a> 
     <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
     </a> 
