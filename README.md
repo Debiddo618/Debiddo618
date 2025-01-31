@@ -24,10 +24,6 @@
 
 ### Languages and Tools:
 
-### Languages and Tools:
-
-### Languages and Tools:
-
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/></a>
