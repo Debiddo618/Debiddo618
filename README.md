@@ -58,8 +58,12 @@
 </picture>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debiddo618&show_icons=true&locale=en&layout=compact" alt="debiddo618" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debiddo618&show_icons=true&locale=en" alt="debiddo618" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debiddo618&" alt="debiddo618" /></p>
+<div>
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=debiddo618" width="51%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=debiddo618&layout=compact&show_icons=true" alt="debiddo618 github-readme-stats" width="48%" />
+</div>
+<br />
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debiddo618&layout=compact" alt="debiddo618 github readme top-langs" width="39%" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=debiddo618&theme=minimal" alt="debiddo618 github readme activity graph" width="60%" />
+</div>
