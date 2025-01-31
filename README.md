@@ -23,7 +23,6 @@
 </p>
 
 ### Languages and Tools:
-
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/></a>
@@ -51,6 +50,12 @@
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/></a>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/debiddo618/debiddo618/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/debiddo618/debiddo618/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/debiddo618/debiddo618/output/github-snake.svg" />
+</picture>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debiddo618&show_icons=true&locale=en&layout=compact" alt="debiddo618" /></p>
