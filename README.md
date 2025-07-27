@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debiddo618&label=Profile%20views&color=0e75b6&style=flat" alt="debiddo618" /> </p>
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Three.js** and **Blender**
 
 - 👨‍💻 All of my projects are available at [https://david-zheng.netlify.app/](https://david-zheng.netlify.app/)
 
